@@ -21,3 +21,4 @@ if __name__ == "__main__":
         main(int(sys.argv[1]))
 
 #Modified after commit 1
+#checkout and reset are cool
